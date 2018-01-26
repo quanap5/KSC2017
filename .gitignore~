@@ -1,0 +1,8 @@
+# Ignore file json
+*.json
+
+#ignore file .pyc
+*.pyc
+
+# Ignore file .~
+

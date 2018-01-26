@@ -1,0 +1,10 @@
+# Ignore file json
+*.json
+
+#ignore file .pyc
+*.pyc
+
+# Ignore files in /embeddings
+embeddings/
+
+
