@@ -1,10 +1,6 @@
-# Deep Learning for Big Crisis Data
-This repository will host Python implementation of a number of deep neural networks classifiers
-for the classification of crisis-related data on Twitter.
+# Demo event detection using deep learning technique
 
 1. Requirementes:
-        
-        python 2.70. Requirementes:
 	Ubuntu
 	python 2.7>
 	keras
